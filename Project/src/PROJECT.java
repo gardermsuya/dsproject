@@ -50,7 +50,7 @@ public class PROJECT {
             for (String value: line) {
                 if (columnNo == 6){
                     System.out.println("\n");
-//                } else{
+                } else{
                     System.out.print(line.get(0) + "      ");
                     System.out.print(line.get(1) + "      ");
                     System.out.print(line.get(2) + "      ");
